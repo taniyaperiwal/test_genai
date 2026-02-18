@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "environment": "production",
+  "features": {
+    "code_review": true,
+    "auto_approve": false
+  }
+}
